@@ -1,0 +1,7 @@
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\bin\Debug\Quan_Ly_Sach.exe.config
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\bin\Debug\Quan_Ly_Sach.exe
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\bin\Debug\Quan_Ly_Sach.pdb
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\obj\Debug\Quan_Ly_Sach.csproj.AssemblyReference.cache
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\obj\Debug\Quan_Ly_Sach.csproj.CoreCompileInputs.cache
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\obj\Debug\Quan_Ly_Sach.exe
+C:\Users\THANH DAT\source\repos\Quan_Ly_Sach\Quan_Ly_Sach\obj\Debug\Quan_Ly_Sach.pdb
